@@ -138,15 +138,11 @@ AI-ML-and-GEN-AI-Track-Project
 
 ## Team
 
-Replace this section with your team details.
-
-- Team Name:
-- Team Members:
-- Mentor:
-- Organization:
+- Team ID: SWTID-2026-4799
+- Team Leader: Hari Bellamkonda 
+- Team Member 1: Challa Sukumar 
+- Team Member 2: Umesh CHALAPADHI 
+- Team Member 3: Girish Kumar 
+- Team Member 4: Vignesh A
 
 ---
-
-## License
-
-This repository is intended for educational purposes as part of the AI-ML-and-GEN-AI Track Project.
